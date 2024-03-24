@@ -17,4 +17,4 @@ Return the result table in any order.
 
 The result format is in the following example.
 
-Solution:-Select name from customer where referee_id is null or referee_id = 1
+Solution:-Select name from customer where referee_id is null or referee_id != 2
